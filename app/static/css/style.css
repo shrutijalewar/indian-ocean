@@ -1,34 +1,39 @@
 @import url(http://fonts.googleapis.com/css?family=Audiowide);
   body{
-    margin: 0px;
+    margin: 50px;
     background-color: black;
+    color: grey;
+   font-family: 'Audiowide', cursive;
       }
 
       h1{
    border: 3px double grey;
    font-family: 'Audiowide', cursive;
-   background-color: grey;
-   color: black;
-   font-size: 50px;
-   letter-spacing: 10px;
+   background-color: lightblue;
+   color: grey;
+   font-size: 70px;
+   letter-spacing: 20px;
    padding: 20px;
    margin: 0px;
        }
   nav{
-   margin-top: 25px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   font-size: 60px;
       }
 
   a{
    text-decoration: none;
    color: lightgrey;
-   border: 1px dashed black;
+   
    padding: 5px;
-   margin: 5px
+   margin: 15px
    }
   
    a:hover{
      text-decoration: underline;
       }
+
 
 
 
